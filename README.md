@@ -5,7 +5,8 @@
 I have over a year of hands-on experience at Solidity and a deep passion for blockchain technology ❤️
 
 - ✉️ You can contact me at [LinkedIn](https://www.linkedin.com/in/amaiorova/)
-- 🧠 I'm learning for the [Expert Solidity Bootcamp](https://www.encode.club/expert-solidity-bootcamp) from Encode club now
+- 🥇 Winner of the Web 3 Hackathon from [Top Selection](https://www.linkedin.com/company/topselection-web3/about/) by creating an [NFT lending](https://github.com/AsyaMaior/NFT-collateralized-lending) project with the team
+- 🧠 I'm learning Computer programming in [School 21](https://21-school.ru/) now
 - 🤝 I'm open to collaborating on interesting projects
 
 ---
